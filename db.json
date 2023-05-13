@@ -1,0 +1,46 @@
+{
+  "ItemInfo": [
+    {
+      "Id": "0",
+      "Name": "Line",
+      "Rarity": "Common",
+      "Description": "Just a line",
+      "Price": "10"
+    },
+    {
+      "Id": "1",
+      "Name": "Yellow-Line",
+      "Rarity": "Rare",
+      "Description": "A line with Yellow color!",
+      "Price": "25"
+    },
+    {
+      "Id": "2",
+      "Name": "Red-Line",
+      "Rarity": "UltraRare",
+      "Description": "This line is unique!",
+      "Price": "50"
+    },
+    {
+      "Id": "3",
+      "Name": "Sad",
+      "Rarity": "Common",
+      "Description": "Just a Sad Face",
+      "Price": "15"
+    },
+    {
+      "Id": "4",
+      "Name": "Smile",
+      "Rarity": "Rare",
+      "Description": "You can show your happiness to others",
+      "Price": "75"
+    },
+    {
+      "Id": "5",
+      "Name": "DeadFace",
+      "Rarity": "UltraRare",
+      "Description": "Show this when you kill a enemy, it's fun Haha!",
+      "Price": "500"
+    }
+  ]
+}
