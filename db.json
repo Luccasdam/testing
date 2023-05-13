@@ -5,6 +5,7 @@
       "Name": "Line",
       "Rarity": "Common",
       "Description": "Just a line",
+      "URL": "https://raw.githubusercontent.com/Luccasdam/testing/main/GitCollection/0_Line.png",
       "Price": "10"
     },
     {
@@ -12,6 +13,7 @@
       "Name": "Yellow-Line",
       "Rarity": "Rare",
       "Description": "A line with Yellow color!",
+      "URL": "https://raw.githubusercontent.com/Luccasdam/testing/main/GitCollection/1_YellowLine.png",
       "Price": "25"
     },
     {
@@ -19,6 +21,7 @@
       "Name": "Red-Line",
       "Rarity": "UltraRare",
       "Description": "This line is unique!",
+      "URL": "https://raw.githubusercontent.com/Luccasdam/testing/main/GitCollection/2_RedLine.png",
       "Price": "50"
     },
     {
@@ -26,6 +29,7 @@
       "Name": "Sad",
       "Rarity": "Common",
       "Description": "Just a Sad Face",
+      "URL": "https://raw.githubusercontent.com/Luccasdam/testing/main/GitCollection/3_Sad.png",
       "Price": "15"
     },
     {
@@ -33,6 +37,7 @@
       "Name": "Smile",
       "Rarity": "Rare",
       "Description": "You can show your happiness to others",
+      "URL": "https://raw.githubusercontent.com/Luccasdam/testing/main/GitCollection/4_Smile.png",
       "Price": "75"
     },
     {
@@ -40,6 +45,7 @@
       "Name": "DeadFace",
       "Rarity": "UltraRare",
       "Description": "Show this when you kill a enemy, it's fun Haha!",
+      "URL": "https://raw.githubusercontent.com/Luccasdam/testing/main/GitCollection/5_Dead.png",
       "Price": "500"
     }
   ]
